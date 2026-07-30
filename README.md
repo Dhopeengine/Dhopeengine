@@ -29,7 +29,8 @@ Used Python to clean, analyze, and visualize data.
 - React
 - Power BI
 ## connect with me
-LinkedIn: https://www.linkedin.com/in/olawale Ajibola/
+LinkedIn: https://www.linkedin.com/in/olawale-ajibola-bb43bb1b8/
+
 
 <!---
 Dhopeengine/Dhopeengine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
